@@ -1,16 +1,16 @@
 {
     "name": "profgen",
     "version": "1.0.0",
-    "description": "",
-    "main": "",
+    "description": "Profile Generator",
+    "main": "index.js",
     "directories": {
         "lib": "lib"
     },
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/ALiteralWaffle/Challenge-10-Profile-Generator"
     },
-    "author": "",
+    "author": "Ethan Alexander",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/ALiteralWaffle/Challenge-10-Profile-Generator/issues"
