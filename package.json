@@ -1,0 +1,23 @@
+{
+    "name": "profgen",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "directories": {
+        "lib": "lib"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ALiteralWaffle/Challenge-10-Profile-Generator/issues"
+    },
+    "homepage": "",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "jest": "^29.3.1"
+    }
+}
